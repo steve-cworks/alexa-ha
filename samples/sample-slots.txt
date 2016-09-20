@@ -1,33 +1,131 @@
-/******************* COLOR_TYPE *********************/
-white
-red
-orange
-yellow
-green
-aqua
-blue
-purple
-magenta
-pink
-black
+/******************* AUDIO_TYPE *********************/
+Airplay
+Amazon
+Auxiliary
+DirecTV
+FM
+Media Server
+Music
+Pandora
+Record Player
+Sirius
+Sonos
+TV
+
+/******************* VIDEO_TYPE *********************/
+Apple TV
+Blu-Ray
+Cameras
+Chromecast
+DirecTV
+FireTV
+Media PC
+PC
+TiVo
+TV
+XBox
+
+/***************** SCENE_TYPE *******************/
+All Off
+All On
+Chill
+Close
+Cook
+Dine
+Down
+Dream
+Early
+Entertain
+Fan Off
+Fan On
+Goodbye
+Goodnight
+High
+Low
+Lower
+Medium
+Morning
+Movie
+Night
+Nightlight
+Off
+On
+Open
+Raise
+Relax
+Slow Wake
+Stop
+Tv
+Up
+Welcome
 
 /***************** LOCATION_TYPE *******************/
-all
-house
-living room
-great room
-kitchen
-master bedroom
-guest bedroom
-bathroom
-data center
-garage
-office
-foyer
-outside
-utility
-powder
-inside
-indoor
-outside
-outdoor
+Attic
+Backdoor
+Backyard
+Barn
+Basement
+Basement Bar
+Basement Main
+Basement Stairwell
+Basement Utility
+Bathroom
+Bedroom
+Coop
+Deck
+Den
+Dinette
+Dining Room
+Downstairs
+Downstairs Hallway
+Driveway
+Entry
+Family Room
+Family Room Accent
+Foyer
+Front Door
+Front Porch
+Front Yard
+Garage
+Great Room
+Guest Room
+Hallway
+Holiday
+Horse
+House
+Kids' Bathroom
+Kids' Room
+Kids' Rooms
+Kitchen
+Kitchen Main
+Kitchen Peninsula
+Laundry
+Laundry Room
+Library
+Living Room
+Main Floor Bath
+Main Hallway
+Main Stairwell
+Master
+Master Bath
+Master Bed
+Mudroom
+Office
+Outside
+Pantry
+Patio
+Play Room
+Pool
+Porch
+Powder Room
+Rec Room
+Room
+Theater
+Upstairs Bath
+Upstairs Hallway
+Water Closet
+Whole House
+Workbench
+Workshop
+
+ 
