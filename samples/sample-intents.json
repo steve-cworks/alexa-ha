@@ -18,15 +18,15 @@
       ]
     },
     {
-      "intent": "SetColor",
+      "intent": "Recall",
       "slots": [
         {
-          "name": "Location",
-          "type": "LOCATION_TYPE"
+          "name": "Scene",
+          "type": "SCENE_TYPE"
         },
         {
-          "name": "Color",
-          "type": "COLOR_TYPE"
+          "name": "Location",
+          "type": "LOCATION_TYPE
         }
       ]
     },
